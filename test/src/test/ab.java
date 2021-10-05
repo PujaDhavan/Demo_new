@@ -6,6 +6,7 @@ public class ab {
 		
 		
 		System.out.println("hi");
+		System.out.println("hello");
 		
 	}
 
